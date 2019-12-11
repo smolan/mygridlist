@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gridlist", "Gridlist\Gridlist.vcxproj", "{CBFC3687-8241-4006-BC3D-DE4823CAFBE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFC3687-8241-4006-BC3D-DE4823CAFBE9}.Debug|x64.ActiveCfg = Debug|x64
+		{CBFC3687-8241-4006-BC3D-DE4823CAFBE9}.Debug|x64.Build.0 = Debug|x64
+		{CBFC3687-8241-4006-BC3D-DE4823CAFBE9}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBFC3687-8241-4006-BC3D-DE4823CAFBE9}.Debug|x86.Build.0 = Debug|Win32
+		{CBFC3687-8241-4006-BC3D-DE4823CAFBE9}.Release|x64.ActiveCfg = Release|x64
+		{CBFC3687-8241-4006-BC3D-DE4823CAFBE9}.Release|x64.Build.0 = Release|x64
+		{CBFC3687-8241-4006-BC3D-DE4823CAFBE9}.Release|x86.ActiveCfg = Release|Win32
+		{CBFC3687-8241-4006-BC3D-DE4823CAFBE9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1479A0A8-7126-4676-B1C9-E0806195314D}
+	EndGlobalSection
+EndGlobal

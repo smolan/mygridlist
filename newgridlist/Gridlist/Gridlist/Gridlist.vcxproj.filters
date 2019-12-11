@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Gridlist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GridlistDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridColumnTrait.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridColumnTraitCombo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridColumnTraitDateTime.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridColumnTraitEdit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridColumnTraitHyperLink.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridColumnTraitImage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridColumnTraitMultilineEdit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridColumnTraitText.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridColumnTraitVisitor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridListCtrlEx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridListCtrlGroups.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridRowTrait.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridRowTraitText.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridRowTraitVisitor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\CGridRowTraitXP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\ViewConfigSection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CListCtrl_DataModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CGridListCtrlEx\MButton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Gridlist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GridlistDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\CGridColumnTraitCombo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\CGridColumnTraitDateTime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\CGridColumnTraitEdit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\CGridColumnTraitHyperLink.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\CGridColumnTraitImage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\CGridColumnTraitMultilineEdit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\CGridColumnTraitText.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\CGridListCtrlEx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\CGridListCtrlGroups.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\CGridRowTraitText.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\CGridRowTraitXP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\ViewConfigSection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CGridListCtrlEx\MButton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Gridlist.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Gridlist.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Gridlist.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\FLGDEN.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\FLGFRAN.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\FLGGERM.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\FLGGREEC.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\FLGSPAIN.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\FLGSWED.ICO">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
